@@ -1,0 +1,171 @@
+{
+  "posts": [
+    {
+      "images":"http://www.fighter-ac.ir/files/303.jpg?width=570&height=367&transform=fill",
+      "alt": "pic1",
+      "text": "تمرین",
+      "title": "خبر اول",
+      "date": "1401/07/08",
+      "id": 1
+    },
+    {
+      "images":"https://www.helpguide.org/wp-content/uploads/resistance-band-woman-doing-leg-workout-768.jpg",
+      "alt": "pic2",
+      "text": "تمرین",
+      "title": "خبر دوم",
+      "date": "1401/07/15",
+      "id": 2
+    },
+    {
+      "images":"http://www.fighter-ac.ir/files/301.jpg?width=570&height=367&transform=fill",
+      "alt": "pic3",
+      "text": "تمرین",
+      "title": "خبر سوم",
+      "date": "1401/07/20",
+      "id": 3
+    },
+    {
+      "images":"http://www.fighter-ac.ir/files/805.jpg?width=570&height=319&transform=fill",
+      "alt": "pic4",
+      "text": "تمرین",
+      "title": "خبر چهارم",
+      "date": "1401/07/24",
+      "id": 4
+    },
+    {
+      "images":"http://www.fighter-ac.ir/files/802.jpg?width=570&height=319&transform=fill",
+      "alt": "pic5",
+      "text": "تمرین",
+      "title": "خبر پنجم",
+      "date": "1401/07/26",
+      "id": 5
+    },
+    {
+      "images":"http://www.fighter-ac.ir/files/302.jpg?width=570&height=367&transform=fill",
+      "alt": "pic6",
+      "text": "تمرین",
+      "title": "خبر ششم",
+      "date": "1401/07/30",
+      "id": 6
+    },
+    {
+      "images":"https://barbend.com/wp-content/uploads/2021/08/shutterstock_428663329.jpg",
+      "alt": "pic7",
+      "text": "تمرین",
+      "title": "خبر هفتم",
+      "date": "1401/08/03",
+      "id": 7
+    },
+    {
+      "images":"http://www.fighter-ac.ir/files/804.jpg?width=570&height=319&transform=fill",
+      "alt": "pic8",
+      "text": "تمرین",
+      "title": "خبر هشتم",
+      "date": "1401/08/10",
+      "id": 8
+    },
+    {
+      "images":"http://www.fighter-ac.ir/files/803.jpg?width=570&height=319&transform=fill",
+      "alt": "pic9",
+      "text": "تمرین",
+      "title": "خبر نهم",
+      "date": "1401/08/15",
+      "id": 9
+    },
+    {
+      "images":"https://www.labrada.com/articles/wp-content/uploads/2019/05/ForHim_10reps-sets_FB.jpg",
+      "alt": "pic10",
+      "text": "تمرین",
+      "title": "خبر دهم",
+      "date": "1401/08/20",
+      "id": 10
+    }
+  ],
+  "slider": [
+    {
+      "images": "https://imgurl.ir/uploads/c9509_basghga.jpg",
+      "alt": "mma-1"
+    },
+    {
+      "images": "https://absolutemma.com.au/wp-content/uploads/2022/10/AbsoluteMMA_FightTeam-1024x635.jpg",
+      "alt": "mma-2"
+    },
+    {
+      "images": "https://img.freepik.com/premium-photo/mixed-martial-artist-posing-black-background-concept-mma-ufc-thai-boxing-classic-boxing-mixed-media_392761-847.jpg?w=2000",
+      "alt": "mma-3"
+    },
+    {
+      "images": "https://img.freepik.com/premium-photo/professional-boxer-hits-bag-concept-sport-boxing-healthy-lifestyle-mma-mixed-media_392761-2882.jpg?w=2000",
+      "alt": "mma-4"
+    },
+    {
+      "images": "https://avada.theme-fusion.com/gym/wp-content/uploads/sites/9/2015/05/home_img-compressor.jpg",
+      "alt": "mma-5"
+    },
+    {
+      "images": "https://boxingsupremacy.com/storage/2021/11/shadow-boxing.webp",
+      "alt": "mma-5"
+    }
+  ],
+  "menu": [
+    {
+      "title": "صفحه نخست"
+    },
+    {
+      "title": "درباره ما"
+    },
+    {
+      "title": "وبلاگ"
+    },
+    {
+      "title": "رشته های ورزشی"
+    },
+    {
+      "title": "برنامه تمرینی"
+    }
+  ],
+  "colleague": [
+    {
+      "images": "http://www.fighter-ac.ir/files/111.png",
+      "alt": "one"
+    },
+    {
+      "images": "http://www.fighter-ac.ir/files/112.png",
+      "alt": "two"
+    },
+    {
+      "images": "http://www.fighter-ac.ir/files/113.png",
+      "alt": "three"
+    },
+    {
+      "images": "http://www.fighter-ac.ir/files/114.png",
+      "alt": "four"
+    }
+  ],
+  "app": [
+    {
+      "images": "https://imgurl.ir/uploads/f759906_icons8-facebook-48.png",
+      "alt": "facebook"
+    },
+    {
+      "images": "https://imgurl.ir/uploads/x63088_icons8-google-48.png",
+      "alt": "google"
+    },
+    {
+      "images": "https://imgurl.ir/uploads/i905015_icons8-instagram-48.png",
+      "alt": "instagram"
+    },
+    {
+      "images": "https://imgurl.ir/uploads/j158366_icons8-telegram-app-48.png",
+      "alt": "telegram"
+    },
+    {
+      "images": "https://imgurl.ir/uploads/f470900_icons8-twitter-48.png",
+      "alt": "twitter"
+    },
+    {
+      "images": "https://imgurl.ir/uploads/b19348_icons8-whatsapp-48.png",
+      "alt": "whatsapp"
+    }
+  ]
+}
